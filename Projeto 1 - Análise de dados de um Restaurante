@@ -1,0 +1,20 @@
+Introdução 
+
+Esse foi o terceiro projeto da Certificação de Análise de Dados
+
+— SQL: Fundamentos e instalação
+— SQL: Linguagem de definição de dados
+— SQL: Linguagem de manipulação de dados
+— SQL: Linguagem de Data Query
+— SQL: Filtros e condicionais
+— SQL: Agregações
+— SQL: Queries e tabelas múltiplas
+— SQL: Queries avançados
+
+Briefing 
+Neste projeto,  foi realizada a contrução do Banco de Dados do restaurante na ferramenta MySQL Workbench , foi feita a definição das principais tabelas de consultas, manipulação dos dados que estavam em formato CSV no Excel para o MySQL,  iniciei as consultas baseadas nos comandos do projeto, inseri agregações e JOINS  para otimizar os resultados das tabelas , e por fim a criação de Views e funções para análises mais aprofundadas 
+
+
+Resolução 
+
+1. 
