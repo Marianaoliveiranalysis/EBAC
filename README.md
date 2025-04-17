@@ -17,3 +17,13 @@ Skills/Tools:
 - Processamento de dados e Big Data 
 - Visualização de dados 
 - Desenvolvimento de Dashboard
+
+Projetos 
+
+Projeto 1: Repositório online para uma calculadora inteligente que funciona automaticamente por meio de um script Shell.
+Projeto 2: Análise do mercado de ações em tempo real.
+Projeto 3: Análise de dados de um restaurante.
+Projeto 4: Análise de dados de uma loja online. 
+Projeto 5: Análise de dados de plataformas de mídia social
+Projeto 6: Análise de dados de um hospital.
+Projeto final: Visualização de dados com Google Cloud. 
